@@ -1,0 +1,12 @@
+Script para armar un reporte en excel sobre los cursos en la plataforma platzi.
+
+Esto te ayuda para tener un listado completo de los cursos que quieres seguir y tener el contenido completo en una planilla excel o csv
+
+Que luego lo puedes poner en Notion o un sistema similar, para llevar tus apuntes y comentarios sobre lo aprendido y desarrollado.
+
+Tecnologias utilizadas
+
+* Python
+** Pandas
+** Requests
+** Bs4
